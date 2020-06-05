@@ -19,6 +19,9 @@ export default function Navbar() {
       <StyledNavItems>
         <li>
           <StyledLink to="/">Home</StyledLink>
+        </li>{" "}
+        <li>
+          <StyledLink to="/Game">Game</StyledLink>
         </li>
         <li>
           <StyledLink to="/highScores">High Scores</StyledLink>

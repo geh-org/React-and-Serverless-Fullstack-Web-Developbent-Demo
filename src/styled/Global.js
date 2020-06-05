@@ -5,8 +5,12 @@ export default createGlobalStyle`
   box-sizing: border-box;
   color: #333;
   margin: 0;
-  font-family: sans-serif;
   font-weight: 300;
+  font-family: sans-serif;
+}
+
+bold {
+  font-weight: 700;
 }
 
 h1, h2 {
